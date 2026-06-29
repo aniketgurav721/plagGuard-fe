@@ -1,0 +1,15 @@
+{
+  "short_name": "PlagGuard",
+  "name": "PlagGuard - Plagiarism Detection",
+  "icons": [
+    {
+      "src": "images/logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#141414",
+  "background_color": "#fafafa"
+}
